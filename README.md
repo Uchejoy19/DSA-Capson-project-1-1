@@ -14,14 +14,15 @@ The primary source of data for this project is a Microsoft Excel spreadsheet pro
 ### Tools used
 - MS Excel (for data collection)Download here
 - SQL(In-depth querying, grouping, summarizing)
-- Case scenerio 1 & Insights
+
+## Case scenerio 1 & Insights
 - Highest Sales by Product Category
 
-### (based on actual query result)
+#### (based on actual query result)
 ### Top 3 Regions by Sales
 Lagos, Abuja, Kano
 
-###Bottom 3 Regions by Sales
+### Bottom 3 Regions by Sales
 Kaduna, Benue,
 
 ### Total Sales of Appliances in Ontario
@@ -31,7 +32,7 @@ Kaduna, Benue,
 - Improve customer service follow-up
  
 ### Shipping Method with Highest Cost
-Express Air (or actual method based on data available)
+- Express Air (or actual method based on data available)
 
 ## Case Scenario II
 
@@ -51,8 +52,8 @@ Express Air (or actual method based on data available)
 ### Shipping Costs vs. Order Priority Evaluation
 - Evaluated whether fast or Economical should match urgency and level of orders
 
-## Observation:
-- High-cost methods (e.g., Express Air) are often used for low-priority orders. A large number of orders especially low and medium orders were shipped using Express Air which is Expensive.
+### Observation:
+- High-cost methods (e.g., Express Air) are often used for low-priority orders. A large number of orders especially low and medium orders were shipped using Express Air which is  Expensive.
 - Apparently, some urgent priority orders were shipped using trucks, which happened to be the slowest means and also contradicts the goal of the business.
 - This shows that the company did not consistently optimize shipping in relation to urgency. Therefore, the company in order to better align shipping methods should
 - Reduce shipping cost for the goods that are not urgent
